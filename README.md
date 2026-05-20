@@ -2,8 +2,6 @@
 
 # Scott Edlund
 
-> Treating evaluation as a first-class cached graph artifact.
-
 ---
 
 ## 🧠 Focus
