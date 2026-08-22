@@ -32,7 +32,7 @@
 ## 🛠️ Stack
 
 * Nix / NixOS / Home Manager
-* Kubernetes (k3s, GitOps direction)
+* Kubernetes (rke2, GitOps direction)
 * Terraform / OpenTofu
 * Linux + cloud infra
 
